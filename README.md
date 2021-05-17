@@ -1,2 +1,1 @@
-# gender-pay-gap-analysis
- 
+Illustration of gender pay-gap analysis in R based on Andrew Chamberlain's article "How to Analyze Your Gender Pay Gap: An Employer's Guide" (https://www.glassdoor.com/research/app/uploads/sites/2/2019/03/GD_Report_AnalyzingGenderPayGap_v2-2.pdf) 
